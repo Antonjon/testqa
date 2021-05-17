@@ -2,3 +2,4 @@ commit line
 456
 123
 789addline
+new branch line
